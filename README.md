@@ -1,6 +1,11 @@
 # My Digital Portfolio
 
 Welcome to my portfolio website! Here you'll find information about me and my projects.
+## Purpose
+
+This project is my personal digital portfolio website.
+I created it to showcase my skills, projects, and progress in web development.
+
 
 ## 🌐 Live Website
 [Visit My Portfolio](https://shei-35.github.io/Portfolio/)
